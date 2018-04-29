@@ -8,7 +8,7 @@ Task for Fortran university classes
 
 ### Running
 
-```
+``` bash
  make clean
  make 
 ```
