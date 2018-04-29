@@ -19,7 +19,7 @@ Program expects one number from standard input,
 Program output is mean error for all the points.
 
 ### Scripts
- test.sh - Executes all 3 (4, 8, 16 kind) versions for n (3,  1000). 
+ -  test.sh - Executes all 3 (4, 8, 16 kind) versions for n (3,  1000). 
 	Output is redirected to files result4.data, result8.data and result16.data 
 	(NOTE: This takes a while) 
- ErrorPlots - python notebook for ploting the error data 
+ -  ErrorPlots - python notebook for ploting the error data 
