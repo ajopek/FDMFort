@@ -33,8 +33,7 @@ program main
     Ideal(N - 1) = real(1, kind = 16)
 
     Error = val_matrix - Ideal
-
-    print *, iPrecision
+    
     print *, (SUM(ABS(Error)) / size(Error))
 
 
